@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>2702</id>
+    <text>1</text>
+  </values>
+  <values>
+    <id>2711</id>
+    <text>10</text>
+  </values>
+  <values>
+    <id>2712</id>
+    <text>11</text>
+  </values>
+  <values>
+    <id>2703</id>
+    <text>2</text>
+  </values>
+  <values>
+    <id>2704</id>
+    <text>3</text>
+  </values>
+  <values>
+    <id>2705</id>
+    <text>4</text>
+  </values>
+  <values>
+    <id>2706</id>
+    <text>5</text>
+  </values>
+  <values>
+    <id>2707</id>
+    <text>6</text>
+  </values>
+  <values>
+    <id>2708</id>
+    <text>7</text>
+  </values>
+  <values>
+    <id>2709</id>
+    <text>8</text>
+  </values>
+  <values>
+    <id>2710</id>
+    <text>9</text>
+  </values>
+</dropdown>

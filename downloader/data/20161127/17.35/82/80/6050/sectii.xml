@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>3948</id>
+    <text>20</text>
+  </values>
+  <values>
+    <id>3949</id>
+    <text>21</text>
+  </values>
+  <values>
+    <id>3950</id>
+    <text>22</text>
+  </values>
+  <values>
+    <id>3951</id>
+    <text>23</text>
+  </values>
+  <values>
+    <id>3952</id>
+    <text>24</text>
+  </values>
+  <values>
+    <id>3953</id>
+    <text>25</text>
+  </values>
+  <values>
+    <id>3954</id>
+    <text>26</text>
+  </values>
+  <values>
+    <id>3955</id>
+    <text>27</text>
+  </values>
+  <values>
+    <id>3956</id>
+    <text>28</text>
+  </values>
+</dropdown>

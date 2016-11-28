@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>5803</id>
+    <text>ALEXĂNDRENI</text>
+  </values>
+  <values>
+    <id>5812</id>
+    <text>BĂLĂŞEŞTI</text>
+  </values>
+  <values>
+    <id>5805</id>
+    <text>BILICENII NOI</text>
+  </values>
+  <values>
+    <id>5806</id>
+    <text>BILICENII VECHI</text>
+  </values>
+  <values>
+    <id>5807</id>
+    <text>BIRUINŢA</text>
+  </values>
+  <values>
+    <id>5811</id>
+    <text>BURSUCENI</text>
+  </values>
+  <values>
+    <id>5814</id>
+    <text>CHIŞCĂRENI</text>
+  </values>
+  <values>
+    <id>5815</id>
+    <text>CIUCIUIENI</text>
+  </values>
+  <values>
+    <id>5818</id>
+    <text>COPĂCENI</text>
+  </values>
+  <values>
+    <id>5822</id>
+    <text>COŞCODENI</text>
+  </values>
+  <values>
+    <id>5819</id>
+    <text>COTIUJENII MICI</text>
+  </values>
+  <values>
+    <id>5823</id>
+    <text>CUBOLTA</text>
+  </values>
+  <values>
+    <id>5825</id>
+    <text>DOBROGEA VECHE</text>
+  </values>
+  <values>
+    <id>5826</id>
+    <text>DRĂGĂNEŞTI</text>
+  </values>
+  <values>
+    <id>5827</id>
+    <text>DUMBRĂVIŢA</text>
+  </values>
+  <values>
+    <id>5832</id>
+    <text>GRIGORĂUCA</text>
+  </values>
+  <values>
+    <id>5834</id>
+    <text>HECIUL NOU</text>
+  </values>
+  <values>
+    <id>5837</id>
+    <text>IEZĂRENII VECHI</text>
+  </values>
+  <values>
+    <id>5838</id>
+    <text>IZVOARE</text>
+  </values>
+  <values>
+    <id>5846</id>
+    <text>PEPENI</text>
+  </values>
+  <values>
+    <id>5850</id>
+    <text>PREPELIŢA</text>
+  </values>
+  <values>
+    <id>5853</id>
+    <text>RĂDOAIA</text>
+  </values>
+  <values>
+    <id>5859</id>
+    <text>SÎNGEREI</text>
+  </values>
+  <values>
+    <id>5860</id>
+    <text>SÎNGEREII NOI</text>
+  </values>
+  <values>
+    <id>5799</id>
+    <text>ŢAMBULA</text>
+  </values>
+  <values>
+    <id>5863</id>
+    <text>TĂURA VECHE</text>
+  </values>
+</dropdown>

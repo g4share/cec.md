@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>5006</id>
+    <text>ANTONEUCA</text>
+  </values>
+  <values>
+    <id>5007</id>
+    <text>BARONCEA</text>
+  </values>
+  <values>
+    <id>5010</id>
+    <text>CHETROSU</text>
+  </values>
+  <values>
+    <id>5011</id>
+    <text>COTOVA</text>
+  </values>
+  <values>
+    <id>5012</id>
+    <text>DOMINTENI</text>
+  </values>
+  <values>
+    <id>5013</id>
+    <text>DROCHIA</text>
+  </values>
+  <values>
+    <id>5015</id>
+    <text>FÎNTÎNIŢA</text>
+  </values>
+  <values>
+    <id>5017</id>
+    <text>GRIBOVA</text>
+  </values>
+  <values>
+    <id>5019</id>
+    <text>HĂSNĂŞENII MARI</text>
+  </values>
+  <values>
+    <id>5020</id>
+    <text>HĂSNĂŞENII NOI</text>
+  </values>
+  <values>
+    <id>5023</id>
+    <text>MARAMONOVCA</text>
+  </values>
+  <values>
+    <id>5024</id>
+    <text>MICIURIN</text>
+  </values>
+  <values>
+    <id>5027</id>
+    <text>MÎNDÎC</text>
+  </values>
+  <values>
+    <id>5025</id>
+    <text>MOARA DE PIATRĂ</text>
+  </values>
+  <values>
+    <id>5028</id>
+    <text>NICORENI</text>
+  </values>
+  <values>
+    <id>5029</id>
+    <text>OCHIUL ALB</text>
+  </values>
+  <values>
+    <id>5030</id>
+    <text>PALANCA</text>
+  </values>
+  <values>
+    <id>5031</id>
+    <text>PELINIA</text>
+  </values>
+  <values>
+    <id>5032</id>
+    <text>PERVOMAISCOE</text>
+  </values>
+  <values>
+    <id>5033</id>
+    <text>PETRENI</text>
+  </values>
+  <values>
+    <id>5034</id>
+    <text>POPEŞTII DE JOS</text>
+  </values>
+  <values>
+    <id>5035</id>
+    <text>POPEŞTII DE SUS</text>
+  </values>
+  <values>
+    <id>5014</id>
+    <text>s. DROCHIA</text>
+  </values>
+  <values>
+    <id>5041</id>
+    <text>ŞALVIRII VECHI</text>
+  </values>
+  <values>
+    <id>5038</id>
+    <text>SOFIA</text>
+  </values>
+  <values>
+    <id>5042</id>
+    <text>ŞURI</text>
+  </values>
+  <values>
+    <id>5005</id>
+    <text>ŢARIGRAD</text>
+  </values>
+  <values>
+    <id>5039</id>
+    <text>ZGURIŢA</text>
+  </values>
+</dropdown>

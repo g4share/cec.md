@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>3028</id>
+    <text>ABACLIA</text>
+  </values>
+  <values>
+    <id>3029</id>
+    <text>BASARABEASCA</text>
+  </values>
+  <values>
+    <id>3030</id>
+    <text>BAŞCALIA</text>
+  </values>
+  <values>
+    <id>3032</id>
+    <text>CARABETOVCA</text>
+  </values>
+  <values>
+    <id>3034</id>
+    <text>IORDANOVCA</text>
+  </values>
+  <values>
+    <id>3035</id>
+    <text>ISERLIA</text>
+  </values>
+  <values>
+    <id>3037</id>
+    <text>SADACLIA</text>
+  </values>
+</dropdown>

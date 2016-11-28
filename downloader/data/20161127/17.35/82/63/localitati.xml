@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>5277</id>
+    <text>BALATINA</text>
+  </values>
+  <values>
+    <id>5281</id>
+    <text>CAJBA</text>
+  </values>
+  <values>
+    <id>5282</id>
+    <text>CAMENCA</text>
+  </values>
+  <values>
+    <id>5284</id>
+    <text>CIUCIULEA</text>
+  </values>
+  <values>
+    <id>5286</id>
+    <text>COBANI</text>
+  </values>
+  <values>
+    <id>5288</id>
+    <text>CUHNEŞTI</text>
+  </values>
+  <values>
+    <id>5289</id>
+    <text>DANU</text>
+  </values>
+  <values>
+    <id>5290</id>
+    <text>DUŞMANI</text>
+  </values>
+  <values>
+    <id>5291</id>
+    <text>FUNDURII NOI</text>
+  </values>
+  <values>
+    <id>5292</id>
+    <text>FUNDURII VECHI</text>
+  </values>
+  <values>
+    <id>5293</id>
+    <text>GLODENI</text>
+  </values>
+  <values>
+    <id>5294</id>
+    <text>HÎJDIENI</text>
+  </values>
+  <values>
+    <id>5295</id>
+    <text>IABLOANA</text>
+  </values>
+  <values>
+    <id>5296</id>
+    <text>LIMBENII NOI</text>
+  </values>
+  <values>
+    <id>5297</id>
+    <text>LIMBENII VECHI</text>
+  </values>
+  <values>
+    <id>5303</id>
+    <text>PETRUNEA</text>
+  </values>
+  <values>
+    <id>5306</id>
+    <text>STURZOVCA</text>
+  </values>
+  <values>
+    <id>5310</id>
+    <text>USTIA</text>
+  </values>
+  <values>
+    <id>5311</id>
+    <text>VIIŞOARA</text>
+  </values>
+</dropdown>

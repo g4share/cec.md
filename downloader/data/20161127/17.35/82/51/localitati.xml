@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>4658</id>
+    <text>ALEXANDERFELD</text>
+  </values>
+  <values>
+    <id>4659</id>
+    <text>ALEXANDRU IOAN CUZA</text>
+  </values>
+  <values>
+    <id>4660</id>
+    <text>ANDRUŞUL DE JOS</text>
+  </values>
+  <values>
+    <id>4661</id>
+    <text>ANDRUŞUL DE SUS</text>
+  </values>
+  <values>
+    <id>4662</id>
+    <text>BADICUL MOLDOVENESC</text>
+  </values>
+  <values>
+    <id>4663</id>
+    <text>BAURCI-MOLDOVENI</text>
+  </values>
+  <values>
+    <id>4664</id>
+    <text>BORCEAG</text>
+  </values>
+  <values>
+    <id>4665</id>
+    <text>BRÎNZA</text>
+  </values>
+  <values>
+    <id>4666</id>
+    <text>BUCURIA</text>
+  </values>
+  <values>
+    <id>4668</id>
+    <text>BURLĂCENI</text>
+  </values>
+  <values>
+    <id>4667</id>
+    <text>BURLACU</text>
+  </values>
+  <values>
+    <id>4669</id>
+    <text>CAHUL</text>
+  </values>
+  <values>
+    <id>4670</id>
+    <text>CHIOSELIA MARE</text>
+  </values>
+  <values>
+    <id>4676</id>
+    <text>CÎŞLIŢA-PRUT</text>
+  </values>
+  <values>
+    <id>4672</id>
+    <text>COLIBAŞI</text>
+  </values>
+  <values>
+    <id>4674</id>
+    <text>CRIHANA VECHE</text>
+  </values>
+  <values>
+    <id>4675</id>
+    <text>CUCOARA</text>
+  </values>
+  <values>
+    <id>4677</id>
+    <text>DOINA</text>
+  </values>
+  <values>
+    <id>4681</id>
+    <text>GĂVĂNOASA</text>
+  </values>
+  <values>
+    <id>4679</id>
+    <text>GIURGIULEŞTI</text>
+  </values>
+  <values>
+    <id>4682</id>
+    <text>HULUBOAIA</text>
+  </values>
+  <values>
+    <id>4685</id>
+    <text>IUJNOE</text>
+  </values>
+  <values>
+    <id>4686</id>
+    <text>LARGA NOUĂ</text>
+  </values>
+  <values>
+    <id>4688</id>
+    <text>LEBEDENCO</text>
+  </values>
+  <values>
+    <id>4689</id>
+    <text>LOPĂŢICA</text>
+  </values>
+  <values>
+    <id>4690</id>
+    <text>LUCEŞTI</text>
+  </values>
+  <values>
+    <id>4691</id>
+    <text>MANTA</text>
+  </values>
+  <values>
+    <id>4692</id>
+    <text>MOSCOVEI</text>
+  </values>
+  <values>
+    <id>4696</id>
+    <text>PELINEI</text>
+  </values>
+  <values>
+    <id>4697</id>
+    <text>ROŞU</text>
+  </values>
+  <values>
+    <id>4699</id>
+    <text>SLOBOZIA MARE</text>
+  </values>
+  <values>
+    <id>4702</id>
+    <text>TARACLIA DE SALCIE</text>
+  </values>
+  <values>
+    <id>4703</id>
+    <text>TARTAUL DE SALCIE</text>
+  </values>
+  <values>
+    <id>4707</id>
+    <text>TĂTĂREŞTI</text>
+  </values>
+  <values>
+    <id>4709</id>
+    <text>VADUL LUI ISAC</text>
+  </values>
+  <values>
+    <id>4711</id>
+    <text>VĂLENI</text>
+  </values>
+  <values>
+    <id>4712</id>
+    <text>ZÎRNEŞTI</text>
+  </values>
+</dropdown>

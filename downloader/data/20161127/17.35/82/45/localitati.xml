@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>3079</id>
+    <text>BĂLŢI</text>
+  </values>
+  <values>
+    <id>3080</id>
+    <text>ELIZAVETA</text>
+  </values>
+  <values>
+    <id>3081</id>
+    <text>SADOVOE</text>
+  </values>
+</dropdown>

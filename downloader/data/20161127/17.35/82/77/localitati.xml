@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>5869</id>
+    <text>ALBOTA DE JOS</text>
+  </values>
+  <values>
+    <id>5870</id>
+    <text>ALBOTA DE SUS</text>
+  </values>
+  <values>
+    <id>5871</id>
+    <text>ALUATU</text>
+  </values>
+  <values>
+    <id>5872</id>
+    <text>BALABANU</text>
+  </values>
+  <values>
+    <id>5873</id>
+    <text>BUDĂI</text>
+  </values>
+  <values>
+    <id>5874</id>
+    <text>CAIRACLIA</text>
+  </values>
+  <values>
+    <id>5875</id>
+    <text>CEALÎC</text>
+  </values>
+  <values>
+    <id>5878</id>
+    <text>CORTEN</text>
+  </values>
+  <values>
+    <id>5884</id>
+    <text>MUSAITU</text>
+  </values>
+  <values>
+    <id>5885</id>
+    <text>NOVOSIOLOVCA</text>
+  </values>
+  <values>
+    <id>5888</id>
+    <text>SALCIA</text>
+  </values>
+  <values>
+    <id>5891</id>
+    <text>TARACLIA</text>
+  </values>
+  <values>
+    <id>5892</id>
+    <text>TVARDIŢA</text>
+  </values>
+  <values>
+    <id>5893</id>
+    <text>VALEA PERJEI</text>
+  </values>
+  <values>
+    <id>5894</id>
+    <text>VINOGRADOVCA</text>
+  </values>
+</dropdown>

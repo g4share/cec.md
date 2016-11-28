@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>2983</id>
+    <text>ANENII NOI</text>
+  </values>
+  <values>
+    <id>2987</id>
+    <text>BOTNĂREŞTI</text>
+  </values>
+  <values>
+    <id>2989</id>
+    <text>BULBOACA</text>
+  </values>
+  <values>
+    <id>2990</id>
+    <text>CALFA</text>
+  </values>
+  <values>
+    <id>2992</id>
+    <text>CHETROSU</text>
+  </values>
+  <values>
+    <id>2993</id>
+    <text>CHIRCA</text>
+  </values>
+  <values>
+    <id>2994</id>
+    <text>CIOBANOVCA</text>
+  </values>
+  <values>
+    <id>2995</id>
+    <text>COBUSCA NOUĂ</text>
+  </values>
+  <values>
+    <id>2996</id>
+    <text>COBUSCA VECHE</text>
+  </values>
+  <values>
+    <id>2998</id>
+    <text>DELACĂU</text>
+  </values>
+  <values>
+    <id>2999</id>
+    <text>FLORENI</text>
+  </values>
+  <values>
+    <id>3001</id>
+    <text>GEAMĂNA</text>
+  </values>
+  <values>
+    <id>3002</id>
+    <text>GURA BÎCULUI</text>
+  </values>
+  <values>
+    <id>3003</id>
+    <text>HÎRBOVĂŢ</text>
+  </values>
+  <values>
+    <id>3006</id>
+    <text>MAXIMOVCA</text>
+  </values>
+  <values>
+    <id>3007</id>
+    <text>MERENI</text>
+  </values>
+  <values>
+    <id>3008</id>
+    <text>MERENII NOI</text>
+  </values>
+  <values>
+    <id>3011</id>
+    <text>OCHIUL ROŞ</text>
+  </values>
+  <values>
+    <id>3014</id>
+    <text>PUHĂCENI</text>
+  </values>
+  <values>
+    <id>3015</id>
+    <text>ROŞCANI</text>
+  </values>
+  <values>
+    <id>3027</id>
+    <text>ŞERPENI</text>
+  </values>
+  <values>
+    <id>3019</id>
+    <text>SPEIA</text>
+  </values>
+  <values>
+    <id>3020</id>
+    <text>TELIŢA</text>
+  </values>
+  <values>
+    <id>2981</id>
+    <text>ŢÎNŢĂRENI</text>
+  </values>
+  <values>
+    <id>3024</id>
+    <text>VARNIŢA</text>
+  </values>
+  <values>
+    <id>3026</id>
+    <text>ZOLOTIEVCA</text>
+  </values>
+</dropdown>

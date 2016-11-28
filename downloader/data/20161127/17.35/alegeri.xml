@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>82</id>
+    <text>Alegerile Prezidențiale. Turul II</text>
+  </values>
+  <values>
+    <id>83</id>
+    <text>Alegerile Locale Noi. Turul II</text>
+  </values>
+</dropdown>

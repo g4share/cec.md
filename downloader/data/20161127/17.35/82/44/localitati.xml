@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>4767</id>
+    <text>BĂCIOI</text>
+  </values>
+  <values>
+    <id>4765</id>
+    <text>BOTANICA CHIŞINĂU</text>
+  </values>
+  <values>
+    <id>4782</id>
+    <text>BUBUIECI</text>
+  </values>
+  <values>
+    <id>4783</id>
+    <text>BUDEŞTI</text>
+  </values>
+  <values>
+    <id>4773</id>
+    <text>BUIUCANI CHIŞINĂU</text>
+  </values>
+  <values>
+    <id>4780</id>
+    <text>CENTRU CHIŞINĂU</text>
+  </values>
+  <values>
+    <id>4788</id>
+    <text>CIOCANA CHIŞINĂU</text>
+  </values>
+  <values>
+    <id>4795</id>
+    <text>CIORESCU</text>
+  </values>
+  <values>
+    <id>4781</id>
+    <text>CODRU</text>
+  </values>
+  <values>
+    <id>4789</id>
+    <text>COLONIŢA</text>
+  </values>
+  <values>
+    <id>4774</id>
+    <text>CONDRIŢA</text>
+  </values>
+  <values>
+    <id>4796</id>
+    <text>CRICOVA</text>
+  </values>
+  <values>
+    <id>4790</id>
+    <text>CRUZEŞTI</text>
+  </values>
+  <values>
+    <id>4776</id>
+    <text>DURLEŞTI</text>
+  </values>
+  <values>
+    <id>4777</id>
+    <text>GHIDIGHICI</text>
+  </values>
+  <values>
+    <id>4800</id>
+    <text>GRĂTIEŞTI</text>
+  </values>
+  <values>
+    <id>4802</id>
+    <text>RÎŞCANI CHIŞINĂU</text>
+  </values>
+  <values>
+    <id>6090</id>
+    <text>Secții exteritoriale</text>
+  </values>
+  <values>
+    <id>4772</id>
+    <text>SÎNGERA</text>
+  </values>
+  <values>
+    <id>4803</id>
+    <text>STĂUCENI</text>
+  </values>
+  <values>
+    <id>4792</id>
+    <text>TOHATIN</text>
+  </values>
+  <values>
+    <id>4778</id>
+    <text>TRUŞENI</text>
+  </values>
+  <values>
+    <id>4793</id>
+    <text>VADUL LUI VODĂ</text>
+  </values>
+  <values>
+    <id>4779</id>
+    <text>VATRA</text>
+  </values>
+</dropdown>

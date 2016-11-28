@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>3266</id>
+    <text>45</text>
+  </values>
+  <values>
+    <id>3268</id>
+    <text>46</text>
+  </values>
+  <values>
+    <id>3267</id>
+    <text>47</text>
+  </values>
+</dropdown>

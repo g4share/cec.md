@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>5049</id>
+    <text>COCIERI</text>
+  </values>
+  <values>
+    <id>5052</id>
+    <text>CORJOVA</text>
+  </values>
+  <values>
+    <id>5053</id>
+    <text>COŞNIŢA</text>
+  </values>
+  <values>
+    <id>5058</id>
+    <text>DOROŢCAIA</text>
+  </values>
+  <values>
+    <id>5065</id>
+    <text>HOLERCANI</text>
+  </values>
+  <values>
+    <id>5070</id>
+    <text>MARCĂUŢI</text>
+  </values>
+  <values>
+    <id>5071</id>
+    <text>MOLOVATA</text>
+  </values>
+  <values>
+    <id>5072</id>
+    <text>MOLOVATA NOUĂ</text>
+  </values>
+  <values>
+    <id>5073</id>
+    <text>OXENTEA</text>
+  </values>
+  <values>
+    <id>5076</id>
+    <text>PÎRÎTA</text>
+  </values>
+  <values>
+    <id>5078</id>
+    <text>USTIA</text>
+  </values>
+</dropdown>

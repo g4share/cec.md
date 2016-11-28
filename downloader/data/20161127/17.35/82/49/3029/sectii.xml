@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dropdown>
+  <values>
+    <id>2433</id>
+    <text>1</text>
+  </values>
+  <values>
+    <id>2434</id>
+    <text>2</text>
+  </values>
+  <values>
+    <id>2435</id>
+    <text>3</text>
+  </values>
+  <values>
+    <id>2436</id>
+    <text>4</text>
+  </values>
+  <values>
+    <id>2437</id>
+    <text>5</text>
+  </values>
+  <values>
+    <id>2438</id>
+    <text>6</text>
+  </values>
+</dropdown>
