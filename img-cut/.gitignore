@@ -1,0 +1,18 @@
+# User-specific stuff:
+.idea/
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# Gradle
+.gradle
+/build/
+gradle-app.setting
+
+# Cache of project
+.gradletasknamecache
